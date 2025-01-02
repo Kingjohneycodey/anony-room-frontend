@@ -24,10 +24,6 @@ const GetStartedPage = () => {
         <h1 className="text-2xl lg:text-6xl font-bold mb-12 text-primary text-center">
           Anony Room 
         </h1>
-
-        <h1 className="text-2xl lg:text-6xl font-bold mb-12 text-primary text-center">
-          Anony Room 
-        </h1>
        
        
         <div className="w-80">
